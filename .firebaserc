@@ -1,5 +1,6 @@
 {
   "projects": {
-    "default": "bento-starter"
+    "default": "bento-starter",
+    "pwa_app": "bidinnovapwa"
   }
 }
